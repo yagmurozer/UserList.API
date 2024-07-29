@@ -1,0 +1,5 @@
+@UserList.API_HostAddress = http://localhost:7084
+
+GET {{UserList.API_HostAddress}}/api/users
+Accept: application/json
+###
